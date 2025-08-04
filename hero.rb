@@ -12,7 +12,7 @@ class Hero
 		@health += 10
 	end
 
-	def powe_down
+	def power_down
 		@health -= 10
 	end
 
